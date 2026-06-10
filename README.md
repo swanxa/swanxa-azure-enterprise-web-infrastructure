@@ -8,7 +8,7 @@ This project demonstrates deployment of a highly available web application infra
 
 ## Architecture
 
-![Architecture](Architecture/architecture-diagram.png)
+![Architecture](Architecture/Architecture diagram.png)
 
 ## Services Used
 
